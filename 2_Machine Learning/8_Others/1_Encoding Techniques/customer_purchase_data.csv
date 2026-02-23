@@ -1,0 +1,501 @@
+Gender,City,Product,Education,Age,Purchased
+Male,Mumbai,Laptop,Bachelor,34,No
+Female,Chennai,Tablet,High School,31,No
+Male,Chennai,Phone,Bachelor,38,No
+Male,Bangalore,Phone,Master,32,Yes
+Male,Mumbai,Phone,High School,43,No
+Female,Chennai,Phone,Bachelor,32,No
+Male,Bangalore,Phone,Bachelor,33,No
+Male,Mumbai,Phone,Bachelor,45,No
+Male,Bangalore,Phone,PhD,39,Yes
+Female,Delhi,Laptop,Bachelor,56,No
+Male,Chennai,Tablet,Bachelor,28,No
+Male,Delhi,Phone,Master,49,Yes
+Male,Mumbai,Laptop,Bachelor,52,No
+Male,Delhi,Laptop,High School,38,No
+Female,Delhi,Tablet,Bachelor,26,No
+Male,Mumbai,Phone,High School,38,No
+Female,Bangalore,Tablet,High School,39,No
+Female,Delhi,Phone,Bachelor,42,No
+Female,Bangalore,Laptop,Bachelor,57,No
+Male,Delhi,Laptop,PhD,52,Yes
+Female,Bangalore,Laptop,Bachelor,23,No
+Male,Mumbai,Laptop,Bachelor,48,No
+Female,Delhi,Tablet,Bachelor,30,No
+Female,Mumbai,Phone,High School,55,No
+Female,Delhi,Phone,Bachelor,49,No
+Female,Mumbai,Tablet,High School,35,No
+Female,Mumbai,Phone,PhD,53,Yes
+Female,Delhi,Laptop,High School,27,No
+Female,Delhi,Phone,Bachelor,32,No
+Female,Delhi,Laptop,High School,50,No
+Male,Chennai,Tablet,PhD,41,Yes
+Male,Bangalore,Phone,Bachelor,51,No
+Female,Chennai,Tablet,Bachelor,44,No
+Female,Chennai,Phone,High School,40,No
+Female,Mumbai,Laptop,Master,57,Yes
+Male,Delhi,Tablet,High School,24,No
+Female,Bangalore,Phone,Master,48,Yes
+Male,Mumbai,Laptop,High School,40,No
+Male,Chennai,Tablet,High School,44,No
+Male,Delhi,Tablet,High School,52,No
+Male,Mumbai,Phone,Bachelor,56,No
+Male,Delhi,Phone,Bachelor,54,No
+Female,Mumbai,Phone,High School,56,No
+Female,Delhi,Laptop,Master,22,Yes
+Female,Chennai,Phone,Bachelor,35,No
+Female,Bangalore,Tablet,Bachelor,54,No
+Female,Chennai,Tablet,Bachelor,56,No
+Male,Bangalore,Phone,Bachelor,26,No
+Female,Delhi,Phone,Bachelor,59,No
+Female,Mumbai,Tablet,High School,32,No
+Male,Chennai,Laptop,High School,23,No
+Female,Bangalore,Phone,Master,38,Yes
+Male,Chennai,Phone,PhD,41,Yes
+Female,Bangalore,Tablet,Bachelor,35,No
+Male,Chennai,Phone,High School,53,No
+Female,Bangalore,Laptop,Bachelor,55,No
+Female,Bangalore,Tablet,Bachelor,46,No
+Male,Delhi,Phone,High School,28,No
+Male,Bangalore,Tablet,High School,56,No
+Male,Delhi,Phone,Master,50,Yes
+Male,Bangalore,Phone,Bachelor,43,No
+Male,Mumbai,Phone,High School,34,No
+Male,Mumbai,Laptop,High School,34,No
+Male,Mumbai,Laptop,High School,22,No
+Male,Bangalore,Tablet,Bachelor,57,No
+Female,Delhi,Phone,High School,25,No
+Female,Delhi,Phone,High School,58,No
+Male,Bangalore,Laptop,Master,34,Yes
+Female,Mumbai,Phone,High School,59,No
+Female,Mumbai,Laptop,Bachelor,45,No
+Female,Delhi,Phone,High School,40,No
+Female,Mumbai,Tablet,High School,22,No
+Male,Chennai,Phone,High School,59,No
+Female,Delhi,Phone,Master,26,Yes
+Male,Mumbai,Laptop,Master,37,Yes
+Female,Delhi,Phone,Master,45,Yes
+Female,Chennai,Phone,Bachelor,48,No
+Female,Delhi,Laptop,Bachelor,22,No
+Male,Delhi,Tablet,High School,55,No
+Female,Delhi,Tablet,High School,57,No
+Male,Delhi,Laptop,Master,25,No
+Female,Chennai,Laptop,High School,21,No
+Male,Bangalore,Laptop,High School,32,No
+Female,Delhi,Laptop,High School,56,No
+Male,Delhi,Laptop,High School,43,No
+Male,Mumbai,Tablet,High School,51,No
+Female,Delhi,Tablet,Bachelor,31,No
+Male,Mumbai,Laptop,Bachelor,30,No
+Female,Bangalore,Phone,Master,23,Yes
+Female,Chennai,Laptop,Master,34,Yes
+Female,Chennai,Phone,Bachelor,36,No
+Female,Bangalore,Laptop,High School,30,No
+Female,Chennai,Laptop,Bachelor,49,No
+Female,Bangalore,Tablet,Bachelor,30,No
+Female,Bangalore,Phone,High School,32,No
+Female,Bangalore,Phone,Bachelor,50,No
+Female,Chennai,Tablet,Bachelor,21,No
+Female,Mumbai,Tablet,Bachelor,25,No
+Female,Bangalore,Tablet,Bachelor,40,No
+Male,Delhi,Tablet,High School,28,No
+Male,Chennai,Phone,PhD,32,Yes
+Female,Bangalore,Phone,Master,21,Yes
+Female,Bangalore,Laptop,High School,40,No
+Female,Delhi,Laptop,Master,48,Yes
+Female,Mumbai,Tablet,Bachelor,57,No
+Female,Mumbai,Tablet,Master,57,Yes
+Female,Mumbai,Tablet,Master,32,Yes
+Female,Bangalore,Laptop,Bachelor,57,No
+Female,Bangalore,Laptop,High School,48,No
+Male,Bangalore,Laptop,High School,35,No
+Female,Chennai,Laptop,Bachelor,26,No
+Male,Delhi,Laptop,Bachelor,40,No
+Female,Bangalore,Laptop,High School,34,No
+Female,Delhi,Laptop,High School,22,No
+Male,Delhi,Tablet,Master,29,No
+Female,Mumbai,Tablet,PhD,57,Yes
+Male,Chennai,Tablet,Bachelor,40,No
+Female,Bangalore,Tablet,High School,46,No
+Female,Mumbai,Laptop,High School,49,No
+Male,Mumbai,Phone,High School,21,No
+Female,Bangalore,Laptop,PhD,55,Yes
+Male,Delhi,Phone,High School,26,No
+Female,Mumbai,Tablet,Bachelor,57,No
+Male,Delhi,Laptop,High School,25,No
+Male,Chennai,Tablet,Bachelor,53,No
+Female,Delhi,Laptop,Bachelor,34,No
+Female,Chennai,Tablet,Master,32,Yes
+Male,Delhi,Phone,High School,40,No
+Female,Mumbai,Phone,High School,44,No
+Female,Mumbai,Phone,High School,54,No
+Female,Chennai,Laptop,PhD,45,Yes
+Male,Bangalore,Phone,Master,49,Yes
+Male,Chennai,Laptop,Bachelor,59,No
+Male,Chennai,Phone,Bachelor,51,No
+Male,Delhi,Phone,Bachelor,43,No
+Male,Delhi,Laptop,High School,58,No
+Male,Chennai,Laptop,PhD,40,Yes
+Male,Mumbai,Phone,Bachelor,43,No
+Male,Delhi,Laptop,Bachelor,36,No
+Male,Bangalore,Phone,Bachelor,28,No
+Female,Delhi,Laptop,High School,41,No
+Male,Delhi,Tablet,High School,21,No
+Female,Bangalore,Tablet,Master,28,Yes
+Female,Chennai,Tablet,High School,49,No
+Female,Bangalore,Tablet,Bachelor,52,No
+Male,Chennai,Tablet,High School,58,No
+Male,Chennai,Phone,Bachelor,25,No
+Male,Chennai,Tablet,High School,42,No
+Male,Bangalore,Tablet,Bachelor,54,No
+Female,Chennai,Tablet,Master,21,Yes
+Male,Mumbai,Tablet,High School,46,No
+Male,Bangalore,Laptop,Bachelor,30,No
+Male,Mumbai,Phone,Bachelor,50,No
+Male,Chennai,Tablet,Bachelor,38,No
+Male,Delhi,Tablet,PhD,37,Yes
+Female,Chennai,Tablet,Master,46,Yes
+Male,Mumbai,Phone,High School,28,No
+Female,Mumbai,Laptop,High School,32,No
+Male,Bangalore,Phone,High School,47,No
+Female,Delhi,Laptop,Bachelor,28,No
+Male,Bangalore,Tablet,High School,45,No
+Male,Mumbai,Tablet,Bachelor,24,No
+Female,Chennai,Phone,Bachelor,53,No
+Female,Delhi,Phone,Bachelor,21,No
+Female,Chennai,Laptop,Master,39,Yes
+Male,Chennai,Laptop,High School,51,No
+Female,Delhi,Phone,High School,36,No
+Male,Bangalore,Laptop,Master,34,Yes
+Male,Chennai,Phone,Bachelor,25,No
+Female,Mumbai,Laptop,Bachelor,46,No
+Female,Chennai,Phone,Bachelor,48,No
+Male,Delhi,Phone,High School,22,No
+Male,Delhi,Phone,Master,26,No
+Female,Delhi,Laptop,Master,29,Yes
+Female,Bangalore,Laptop,Bachelor,53,No
+Female,Chennai,Laptop,High School,45,No
+Male,Bangalore,Phone,Bachelor,33,No
+Male,Bangalore,Laptop,Bachelor,29,No
+Male,Delhi,Laptop,High School,33,No
+Male,Delhi,Phone,PhD,51,Yes
+Male,Bangalore,Tablet,High School,31,No
+Male,Chennai,Phone,PhD,24,No
+Female,Mumbai,Laptop,Bachelor,54,No
+Male,Bangalore,Phone,High School,58,No
+Male,Chennai,Tablet,Bachelor,24,No
+Male,Delhi,Phone,Master,58,Yes
+Female,Delhi,Laptop,Master,39,Yes
+Male,Chennai,Tablet,Master,26,No
+Male,Mumbai,Laptop,Bachelor,54,No
+Female,Delhi,Tablet,Bachelor,38,No
+Male,Delhi,Tablet,Master,33,Yes
+Male,Delhi,Phone,High School,43,No
+Male,Chennai,Phone,Bachelor,39,No
+Male,Bangalore,Laptop,High School,31,No
+Male,Delhi,Phone,PhD,21,No
+Female,Bangalore,Phone,PhD,44,Yes
+Female,Mumbai,Tablet,High School,27,No
+Female,Delhi,Phone,Master,45,Yes
+Male,Delhi,Tablet,PhD,41,Yes
+Male,Mumbai,Tablet,High School,35,No
+Male,Delhi,Tablet,Bachelor,21,No
+Female,Bangalore,Laptop,PhD,32,Yes
+Male,Chennai,Laptop,High School,27,No
+Male,Bangalore,Laptop,Bachelor,35,No
+Female,Chennai,Tablet,High School,41,No
+Male,Chennai,Laptop,PhD,39,Yes
+Female,Bangalore,Laptop,PhD,49,Yes
+Female,Bangalore,Phone,PhD,45,Yes
+Female,Bangalore,Laptop,Bachelor,53,No
+Male,Bangalore,Laptop,Master,52,Yes
+Male,Mumbai,Tablet,Master,55,Yes
+Male,Delhi,Tablet,Bachelor,58,No
+Male,Chennai,Tablet,Master,46,Yes
+Male,Bangalore,Tablet,High School,31,No
+Male,Bangalore,Tablet,Bachelor,55,No
+Male,Bangalore,Tablet,High School,28,No
+Female,Mumbai,Laptop,High School,34,No
+Male,Bangalore,Tablet,High School,30,No
+Female,Bangalore,Tablet,Bachelor,22,No
+Male,Bangalore,Phone,Bachelor,29,No
+Male,Delhi,Laptop,Master,23,No
+Male,Mumbai,Laptop,High School,41,No
+Female,Bangalore,Laptop,Bachelor,46,No
+Female,Chennai,Tablet,Bachelor,28,No
+Female,Chennai,Tablet,Master,22,Yes
+Female,Chennai,Tablet,Bachelor,26,No
+Male,Mumbai,Phone,Bachelor,48,No
+Female,Mumbai,Tablet,Master,49,Yes
+Male,Chennai,Phone,Bachelor,46,No
+Male,Bangalore,Laptop,High School,45,No
+Female,Mumbai,Tablet,High School,32,No
+Female,Chennai,Phone,Master,25,Yes
+Female,Chennai,Phone,High School,54,No
+Female,Bangalore,Tablet,Master,57,Yes
+Female,Delhi,Laptop,Bachelor,35,No
+Female,Mumbai,Laptop,PhD,56,Yes
+Female,Bangalore,Laptop,Master,35,Yes
+Female,Chennai,Phone,PhD,43,Yes
+Male,Chennai,Phone,Bachelor,26,No
+Female,Bangalore,Phone,Master,41,Yes
+Female,Mumbai,Phone,Bachelor,43,No
+Male,Delhi,Laptop,Bachelor,36,No
+Female,Delhi,Tablet,Bachelor,35,No
+Male,Chennai,Phone,Master,45,Yes
+Male,Mumbai,Phone,PhD,56,Yes
+Female,Delhi,Laptop,Master,31,Yes
+Male,Mumbai,Tablet,Bachelor,35,No
+Male,Mumbai,Tablet,Bachelor,24,No
+Male,Chennai,Laptop,Master,41,Yes
+Male,Delhi,Laptop,High School,33,No
+Female,Bangalore,Tablet,High School,42,No
+Male,Chennai,Phone,Bachelor,39,No
+Female,Delhi,Tablet,High School,54,No
+Male,Delhi,Laptop,High School,34,No
+Male,Delhi,Phone,High School,24,No
+Male,Delhi,Phone,High School,47,No
+Male,Delhi,Laptop,High School,49,No
+Female,Mumbai,Laptop,PhD,48,Yes
+Female,Chennai,Laptop,Bachelor,55,No
+Male,Mumbai,Tablet,Bachelor,28,No
+Male,Bangalore,Tablet,Bachelor,36,No
+Female,Delhi,Phone,High School,56,No
+Male,Chennai,Laptop,PhD,50,Yes
+Male,Delhi,Phone,Master,38,Yes
+Male,Chennai,Phone,High School,22,No
+Female,Mumbai,Phone,Bachelor,33,No
+Female,Chennai,Phone,Master,24,Yes
+Female,Bangalore,Laptop,PhD,46,Yes
+Male,Bangalore,Phone,Bachelor,45,No
+Male,Chennai,Laptop,Bachelor,50,No
+Female,Chennai,Laptop,High School,31,No
+Female,Chennai,Tablet,PhD,27,Yes
+Female,Chennai,Laptop,High School,51,No
+Female,Bangalore,Tablet,PhD,30,Yes
+Male,Delhi,Laptop,Bachelor,59,No
+Female,Chennai,Laptop,Bachelor,33,No
+Male,Chennai,Laptop,Bachelor,51,No
+Female,Bangalore,Tablet,High School,27,No
+Male,Bangalore,Tablet,High School,56,No
+Female,Mumbai,Phone,High School,40,No
+Female,Chennai,Tablet,High School,24,No
+Female,Mumbai,Tablet,Master,27,Yes
+Female,Bangalore,Tablet,Bachelor,21,No
+Male,Bangalore,Tablet,High School,33,No
+Female,Delhi,Phone,PhD,42,Yes
+Male,Chennai,Tablet,Master,41,Yes
+Male,Mumbai,Laptop,PhD,42,Yes
+Male,Bangalore,Laptop,PhD,48,Yes
+Male,Bangalore,Tablet,High School,29,No
+Female,Mumbai,Tablet,Bachelor,46,No
+Male,Delhi,Laptop,Master,29,No
+Male,Bangalore,Laptop,Bachelor,35,No
+Male,Chennai,Phone,High School,30,No
+Female,Bangalore,Laptop,Master,44,Yes
+Female,Chennai,Laptop,High School,28,No
+Female,Mumbai,Tablet,High School,44,No
+Female,Chennai,Laptop,Bachelor,36,No
+Male,Mumbai,Phone,Bachelor,46,No
+Male,Chennai,Laptop,Bachelor,47,No
+Female,Mumbai,Tablet,High School,57,No
+Male,Chennai,Tablet,Master,24,No
+Male,Delhi,Laptop,High School,44,No
+Male,Chennai,Tablet,High School,39,No
+Female,Chennai,Phone,Master,56,Yes
+Female,Delhi,Phone,PhD,59,Yes
+Male,Bangalore,Laptop,Master,30,No
+Female,Bangalore,Laptop,Master,45,Yes
+Female,Chennai,Laptop,Bachelor,38,No
+Female,Delhi,Tablet,Bachelor,39,No
+Female,Chennai,Phone,High School,56,No
+Female,Mumbai,Phone,Bachelor,30,No
+Male,Mumbai,Tablet,Bachelor,53,No
+Female,Chennai,Phone,High School,25,No
+Male,Bangalore,Laptop,Master,55,Yes
+Male,Bangalore,Laptop,Bachelor,54,No
+Female,Chennai,Laptop,High School,53,No
+Male,Chennai,Phone,High School,41,No
+Male,Mumbai,Laptop,Bachelor,37,No
+Male,Bangalore,Tablet,High School,42,No
+Female,Chennai,Tablet,Master,57,Yes
+Female,Mumbai,Phone,Bachelor,35,No
+Male,Bangalore,Tablet,Bachelor,55,No
+Female,Delhi,Tablet,Bachelor,48,No
+Female,Mumbai,Phone,Master,27,Yes
+Female,Bangalore,Laptop,Bachelor,52,No
+Female,Bangalore,Laptop,Bachelor,31,No
+Male,Mumbai,Laptop,Bachelor,30,No
+Male,Delhi,Phone,High School,29,No
+Female,Mumbai,Tablet,Master,34,Yes
+Female,Bangalore,Laptop,Master,33,Yes
+Male,Chennai,Laptop,Bachelor,45,No
+Male,Chennai,Phone,Master,22,No
+Female,Mumbai,Laptop,Master,55,Yes
+Male,Bangalore,Phone,Master,27,No
+Female,Chennai,Tablet,Master,41,Yes
+Female,Bangalore,Phone,Bachelor,38,No
+Male,Mumbai,Phone,Bachelor,23,No
+Male,Chennai,Phone,Bachelor,59,No
+Female,Bangalore,Phone,Master,31,Yes
+Female,Chennai,Tablet,High School,59,No
+Male,Mumbai,Tablet,Master,44,Yes
+Female,Bangalore,Laptop,Master,39,Yes
+Male,Chennai,Tablet,High School,24,No
+Female,Mumbai,Tablet,Master,46,Yes
+Male,Chennai,Laptop,High School,58,No
+Male,Chennai,Tablet,Bachelor,52,No
+Male,Delhi,Phone,Master,59,Yes
+Female,Delhi,Phone,High School,56,No
+Female,Mumbai,Laptop,Master,57,Yes
+Male,Delhi,Laptop,Master,53,Yes
+Female,Mumbai,Laptop,Bachelor,56,No
+Male,Delhi,Phone,High School,23,No
+Male,Chennai,Tablet,High School,29,No
+Female,Mumbai,Phone,Bachelor,28,No
+Female,Mumbai,Laptop,PhD,53,Yes
+Male,Chennai,Tablet,Bachelor,26,No
+Female,Mumbai,Tablet,High School,59,No
+Female,Mumbai,Phone,Bachelor,24,No
+Male,Delhi,Laptop,Bachelor,33,No
+Male,Mumbai,Phone,Master,22,No
+Female,Bangalore,Tablet,High School,25,No
+Male,Chennai,Phone,Master,47,Yes
+Male,Delhi,Phone,Bachelor,52,No
+Female,Delhi,Laptop,PhD,41,Yes
+Male,Bangalore,Laptop,Bachelor,28,No
+Male,Chennai,Tablet,Bachelor,58,No
+Female,Chennai,Phone,PhD,28,Yes
+Female,Delhi,Phone,High School,23,No
+Male,Mumbai,Phone,PhD,23,No
+Male,Delhi,Tablet,Bachelor,42,No
+Female,Chennai,Tablet,High School,26,No
+Female,Bangalore,Laptop,Bachelor,22,No
+Female,Delhi,Laptop,Master,43,Yes
+Female,Chennai,Laptop,High School,22,No
+Male,Delhi,Phone,Bachelor,58,No
+Female,Mumbai,Phone,Bachelor,37,No
+Female,Delhi,Laptop,Bachelor,55,No
+Male,Delhi,Phone,High School,54,No
+Female,Chennai,Laptop,Master,43,Yes
+Male,Chennai,Tablet,PhD,50,Yes
+Female,Chennai,Laptop,PhD,28,Yes
+Female,Delhi,Tablet,Master,42,Yes
+Female,Mumbai,Phone,High School,56,No
+Male,Bangalore,Laptop,Master,25,No
+Male,Bangalore,Phone,High School,33,No
+Female,Chennai,Tablet,High School,49,No
+Male,Chennai,Tablet,Bachelor,51,No
+Male,Delhi,Tablet,Bachelor,36,No
+Male,Bangalore,Phone,Master,50,Yes
+Male,Chennai,Phone,Bachelor,36,No
+Male,Mumbai,Phone,Bachelor,32,No
+Male,Mumbai,Phone,High School,37,No
+Female,Chennai,Tablet,PhD,36,Yes
+Female,Chennai,Tablet,Bachelor,32,No
+Male,Bangalore,Laptop,Bachelor,28,No
+Female,Bangalore,Laptop,High School,40,No
+Female,Delhi,Phone,Master,23,Yes
+Female,Bangalore,Tablet,Bachelor,36,No
+Female,Mumbai,Tablet,High School,50,No
+Male,Mumbai,Tablet,High School,43,No
+Female,Chennai,Laptop,Bachelor,48,No
+Female,Bangalore,Laptop,Bachelor,25,No
+Male,Delhi,Tablet,High School,40,No
+Male,Mumbai,Tablet,PhD,21,No
+Female,Mumbai,Tablet,High School,50,No
+Female,Delhi,Laptop,Bachelor,41,No
+Female,Delhi,Tablet,PhD,40,Yes
+Female,Mumbai,Tablet,Bachelor,26,No
+Female,Mumbai,Phone,Bachelor,42,No
+Female,Delhi,Phone,Bachelor,38,No
+Male,Mumbai,Laptop,High School,28,No
+Female,Chennai,Tablet,PhD,59,Yes
+Female,Chennai,Tablet,Bachelor,52,No
+Male,Delhi,Phone,Master,53,Yes
+Male,Bangalore,Laptop,High School,36,No
+Male,Delhi,Phone,High School,32,No
+Male,Delhi,Phone,High School,58,No
+Female,Bangalore,Phone,Bachelor,54,No
+Female,Bangalore,Phone,Bachelor,34,No
+Female,Bangalore,Tablet,Master,56,Yes
+Female,Chennai,Tablet,Bachelor,53,No
+Female,Mumbai,Phone,PhD,43,Yes
+Female,Chennai,Laptop,High School,22,No
+Male,Mumbai,Laptop,Master,41,Yes
+Female,Chennai,Laptop,Master,22,Yes
+Male,Mumbai,Laptop,Master,47,Yes
+Male,Chennai,Phone,Master,29,No
+Female,Bangalore,Tablet,Master,21,Yes
+Male,Delhi,Laptop,Bachelor,31,No
+Female,Chennai,Phone,High School,23,No
+Male,Mumbai,Laptop,High School,43,No
+Female,Bangalore,Laptop,PhD,46,Yes
+Male,Chennai,Phone,Bachelor,24,No
+Female,Chennai,Tablet,Master,38,Yes
+Female,Bangalore,Tablet,Bachelor,26,No
+Female,Chennai,Phone,High School,55,No
+Female,Delhi,Tablet,High School,42,No
+Female,Chennai,Phone,Bachelor,35,No
+Male,Delhi,Phone,Bachelor,42,No
+Male,Delhi,Phone,High School,57,No
+Male,Bangalore,Tablet,Bachelor,32,No
+Female,Chennai,Phone,High School,58,No
+Male,Bangalore,Laptop,Bachelor,38,No
+Female,Chennai,Tablet,High School,55,No
+Female,Chennai,Tablet,Master,50,Yes
+Male,Mumbai,Tablet,Bachelor,44,No
+Male,Chennai,Tablet,Bachelor,50,No
+Female,Bangalore,Laptop,High School,34,No
+Male,Delhi,Tablet,High School,26,No
+Female,Chennai,Tablet,Bachelor,23,No
+Female,Mumbai,Phone,Bachelor,36,No
+Female,Bangalore,Tablet,Bachelor,27,No
+Female,Chennai,Laptop,High School,34,No
+Female,Bangalore,Laptop,Bachelor,29,No
+Male,Mumbai,Laptop,Master,35,Yes
+Male,Mumbai,Laptop,Master,41,Yes
+Female,Bangalore,Tablet,High School,55,No
+Female,Chennai,Tablet,Bachelor,22,No
+Male,Delhi,Laptop,High School,47,No
+Male,Mumbai,Laptop,High School,22,No
+Female,Chennai,Tablet,PhD,55,Yes
+Male,Chennai,Laptop,High School,38,No
+Female,Delhi,Phone,Bachelor,34,No
+Male,Mumbai,Laptop,Bachelor,40,No
+Female,Mumbai,Laptop,Master,38,Yes
+Male,Chennai,Phone,Bachelor,30,No
+Female,Chennai,Phone,High School,45,No
+Male,Delhi,Tablet,Bachelor,22,No
+Male,Delhi,Tablet,Bachelor,45,No
+Female,Mumbai,Phone,High School,53,No
+Male,Bangalore,Phone,Bachelor,56,No
+Female,Mumbai,Tablet,High School,51,No
+Male,Chennai,Laptop,High School,34,No
+Female,Mumbai,Phone,Bachelor,21,No
+Male,Bangalore,Tablet,High School,36,No
+Female,Delhi,Laptop,Bachelor,23,No
+Male,Bangalore,Phone,Bachelor,55,No
+Female,Bangalore,Laptop,Master,26,Yes
+Male,Bangalore,Tablet,High School,45,No
+Female,Delhi,Phone,High School,33,No
+Female,Bangalore,Laptop,High School,54,No
+Female,Bangalore,Phone,Bachelor,28,No
+Male,Bangalore,Laptop,Master,41,Yes
+Female,Chennai,Tablet,High School,54,No
+Male,Bangalore,Tablet,PhD,24,No
+Female,Delhi,Phone,High School,45,No
+Male,Bangalore,Laptop,Bachelor,35,No
+Female,Bangalore,Phone,Master,24,Yes
+Male,Delhi,Phone,Master,32,Yes
+Male,Bangalore,Laptop,Master,52,Yes
+Female,Delhi,Laptop,Master,52,Yes
+Male,Bangalore,Laptop,Bachelor,48,No
+Male,Delhi,Tablet,Master,33,Yes
+Female,Bangalore,Phone,High School,51,No
+Male,Bangalore,Phone,Master,34,Yes
+Male,Chennai,Tablet,Bachelor,40,No
+Male,Chennai,Laptop,Master,38,Yes
+Female,Bangalore,Tablet,Bachelor,49,No
+Male,Bangalore,Tablet,Bachelor,26,No
+Female,Mumbai,Tablet,Bachelor,52,No

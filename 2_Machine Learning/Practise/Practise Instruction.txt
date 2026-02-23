@@ -1,0 +1,13 @@
+Use these datasets for practice
+
+:- Download the ipynb file and complete the empty cells
+
+
+1.Complete Regression |Dataset_name 
+2.Complete Classification |Dataset_name 
+3.Complete Clustering |Dataset_name 
+4.HyperParameter Tunning
+5.Bagging
+6.Boosting
+
+

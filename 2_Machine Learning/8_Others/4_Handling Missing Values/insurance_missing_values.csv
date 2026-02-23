@@ -1,0 +1,12 @@
+Name,Age,Salary,Gender,Education,Purchased_Insurance
+Rahul,25,30000,Male,Bachelor,No
+Anitha,28,42000,Female,Master,Yes
+,Kumar,55000,Male,Bachelor,Yes
+Priya,,25000,Female,High School,No
+Suresh,45,80000,,Master,Yes
+Meena,32,,Female,Bachelor,Yes
+Arjun,29,40000,Male,,No
+Kavya,41,72000,Female,Master,
+Ramesh,50,"90,000",Male,High School,Yes
+Divya,twenty six,35000,Female,Bachelor,No
+

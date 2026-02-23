@@ -1,0 +1,125 @@
+1. Regression
+2. Classification
+3. Clustering
+4. Supervised Algorithm
+5. Unsupervised Algorithm
+6. Reinforcement Algorithm
+7. Labeled Data
+8. Unlabeled Data
+9. Encoder
+10. One-hot Encoder
+11. Label Encoder
+12. 80:20
+13. train_test_split
+14. Model
+15. R²
+16. Adjusted R²
+17. Logistic Regression
+18. KNN (K-Nearest Neighbors)
+19. Sigmoid Function
+20. Gradient
+21. Gradient Descent
+22. Loss Function
+23. Cost Function
+24. \( h(\theta) = \theta_0 + \theta_1 \)
+25. \( y = mx + c \)
+26. Summation
+27. Linear Equation
+28. Slope
+29. Dimension
+30. Feature
+31. Target
+32. Datapoint
+33. Dataframe
+34. NumPy
+35. Pandas
+36. Module
+37. K-means
+38. Elbow Method
+39. Matplotlib
+40. Principal Component
+41. n_components
+42. Neuron
+43. Input Layer
+44. Output Layer
+45. Underfitting
+46. Overfitting
+47. Bias
+48. Variance
+49. Generalized Model
+50. How will you decide the number of neurons?
+51. How many hidden layers?
+52. Black: 0 or 255
+53. White: 0 or 255
+54. Reshape
+55. Predict
+56. Confusion Matrix
+57. Recall
+58. Precision
+59. True Positive
+60. True Negative
+61. False Positive
+62. False Negative
+63. Correlation
+64. Mean
+65. Median
+66. Variance
+67. Covariance
+68. Hyperparameter
+69. Learning Rate
+70. Layers
+71. Activation Function
+72. Convolution
+73. Feature Map
+74. Pooling
+75. Max Pooling
+76. Padding
+77. Feature Selection
+78. Epoch
+79. Regularization
+80. L1 Regularization (Lasso)
+81. L2 Regularization (Ridge)
+82. Random state
+83. Random state = 42
+84. Backpropagation
+85. Forward Propagation
+86. RNN
+87. LSTM
+88. ROC
+89. AUC
+90. Hyperparameter Tuning
+91. Training Data
+92. Test Data
+93. Data Preprocessing
+94. Data Normalization
+95. Data Standardization
+96. Feature Scaling
+97. Bias-Variance Tradeoff
+98. Parameter
+99. Weight
+100. Bias (in the context of a neural network)
+101. Training Set
+102. Testing Set
+103. Validation Set
+104. Prediction
+105. Model Training
+106. Model Evaluation
+107. Accuracy
+108. Training Error
+109. Testing Error
+110. Model Selection
+111. Cross-validation
+112. Learning Curve
+113. Data Augmentation
+114. F1 Score
+115. Explained Variance
+116. Threshold
+117. Ensemble Methods
+118. Regression Line
+119. Sample
+120. Dataset
+121. Dataframe
+122. Feature Extraction
+123. Output
+124. Variance (in data)
+125. Geoffrey Hinton

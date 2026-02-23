@@ -1,0 +1,301 @@
+Gender,Marital_Status,City,Education,Employment_Type,Age,Monthly_Income,Loan_Approved
+Male,Married,Mumbai,High School,Salaried,32,89292,Approve
+Male,Single,Bangalore,Bachelor,Salaried,46,105792,Approve
+Female,Single,Mumbai,Bachelor,Freelancer,33,25976,Reject
+Female,Married,Bangalore,High School,Freelancer,53,115556,Reject
+Female,Single,Hyderabad,High School,Salaried,43,75251,Approve
+Female,Single,Bangalore,High School,Self-Employed,55,46373,Reject
+Male,Married,Chennai,High School,Self-Employed,58,92039,Reject
+Male,Single,Delhi,Bachelor,Freelancer,57,45401,Reject
+Male,Married,Bangalore,Master,Freelancer,30,113252,Approve
+Male,Married,Mumbai,Master,Freelancer,27,49710,Reject
+Male,Married,Hyderabad,Bachelor,Salaried,43,38571,Reject
+Female,Married,Bangalore,Bachelor,Salaried,37,95511,Approve
+Male,Single,Delhi,Bachelor,Self-Employed,45,106754,Reject
+Male,Married,Chennai,High School,Salaried,49,75300,Approve
+Male,Single,Delhi,Bachelor,Self-Employed,26,112241,Reject
+Male,Married,Bangalore,Master,Self-Employed,58,32339,Approve
+Female,Married,Delhi,High School,Freelancer,39,98181,Reject
+Male,Married,Mumbai,Bachelor,Freelancer,54,42858,Reject
+Male,Single,Mumbai,Bachelor,Self-Employed,55,76670,Reject
+Female,Married,Mumbai,Master,Freelancer,35,44930,Approve
+Male,Married,Delhi,PhD,Salaried,38,47587,Approve
+Female,Single,Mumbai,High School,Salaried,24,119421,Reject
+Male,Married,Delhi,High School,Freelancer,37,63757,Reject
+Male,Single,Chennai,Bachelor,Freelancer,55,51942,Reject
+Male,Single,Delhi,High School,Salaried,57,88129,Approve
+Female,Married,Chennai,Bachelor,Self-Employed,40,72844,Reject
+Female,Married,Mumbai,Bachelor,Freelancer,24,87910,Reject
+Female,Married,Delhi,High School,Self-Employed,26,43604,Reject
+Male,Single,Delhi,Bachelor,Salaried,54,54350,Reject
+Male,Single,Mumbai,Bachelor,Freelancer,39,113367,Reject
+Female,Married,Mumbai,High School,Salaried,22,99725,Reject
+Male,Single,Chennai,Bachelor,Freelancer,53,119882,Reject
+Male,Single,Bangalore,Bachelor,Salaried,49,21226,Reject
+Female,Married,Bangalore,High School,Salaried,28,52305,Reject
+Female,Married,Mumbai,High School,Salaried,26,42389,Reject
+Female,Married,Hyderabad,Master,Self-Employed,51,85784,Approve
+Female,Married,Mumbai,Bachelor,Freelancer,45,53902,Reject
+Female,Married,Chennai,High School,Freelancer,43,30104,Reject
+Male,Single,Delhi,Bachelor,Freelancer,38,66139,Reject
+Male,Single,Bangalore,Bachelor,Salaried,41,72170,Approve
+Female,Married,Hyderabad,Master,Self-Employed,23,116822,Approve
+Female,Single,Mumbai,High School,Self-Employed,32,25983,Reject
+Female,Married,Delhi,High School,Freelancer,33,103760,Reject
+Female,Single,Hyderabad,High School,Freelancer,44,51672,Reject
+Female,Single,Chennai,High School,Self-Employed,28,112662,Reject
+Female,Single,Hyderabad,High School,Freelancer,22,97042,Reject
+Female,Single,Delhi,Bachelor,Self-Employed,39,59406,Reject
+Female,Single,Bangalore,High School,Self-Employed,55,111681,Reject
+Male,Married,Bangalore,High School,Salaried,52,27030,Reject
+Female,Married,Chennai,PhD,Salaried,28,33692,Approve
+Female,Married,Chennai,PhD,Self-Employed,51,93306,Approve
+Female,Single,Chennai,High School,Salaried,52,58401,Reject
+Male,Single,Chennai,Bachelor,Salaried,48,43324,Reject
+Male,Single,Hyderabad,Master,Freelancer,29,69591,Approve
+Female,Single,Chennai,High School,Salaried,38,47313,Reject
+Female,Married,Delhi,Bachelor,Freelancer,56,28101,Reject
+Male,Single,Delhi,Master,Freelancer,23,26723,Reject
+Female,Single,Bangalore,Master,Self-Employed,29,98150,Approve
+Male,Married,Hyderabad,Master,Freelancer,52,107196,Approve
+Female,Single,Bangalore,High School,Self-Employed,53,54913,Reject
+Female,Married,Chennai,Bachelor,Self-Employed,25,48872,Reject
+Female,Married,Chennai,PhD,Freelancer,33,78170,Approve
+Male,Single,Chennai,Bachelor,Salaried,37,42577,Reject
+Male,Married,Bangalore,Bachelor,Freelancer,57,25245,Reject
+Female,Single,Delhi,High School,Self-Employed,31,53360,Reject
+Male,Single,Mumbai,PhD,Freelancer,38,35509,Approve
+Male,Married,Hyderabad,Bachelor,Salaried,44,101652,Approve
+Female,Single,Delhi,Bachelor,Self-Employed,45,105994,Reject
+Female,Married,Hyderabad,Bachelor,Freelancer,51,93327,Reject
+Female,Married,Delhi,Master,Freelancer,58,28836,Approve
+Male,Single,Mumbai,PhD,Salaried,55,68909,Approve
+Male,Single,Hyderabad,Bachelor,Freelancer,24,111759,Reject
+Male,Single,Mumbai,High School,Salaried,21,101631,Reject
+Male,Married,Bangalore,Bachelor,Freelancer,34,94986,Reject
+Male,Married,Mumbai,PhD,Freelancer,27,74095,Approve
+Male,Single,Mumbai,Bachelor,Salaried,41,104539,Approve
+Female,Married,Hyderabad,Master,Freelancer,36,26883,Approve
+Male,Married,Bangalore,Bachelor,Self-Employed,54,52473,Reject
+Female,Single,Hyderabad,Master,Salaried,33,90462,Approve
+Male,Married,Bangalore,High School,Self-Employed,43,56383,Reject
+Female,Single,Bangalore,Bachelor,Freelancer,45,108271,Reject
+Male,Married,Delhi,Bachelor,Self-Employed,45,93025,Reject
+Male,Single,Delhi,Bachelor,Self-Employed,43,77425,Reject
+Female,Single,Bangalore,Master,Self-Employed,47,25516,Approve
+Female,Married,Delhi,PhD,Salaried,26,118427,Approve
+Male,Married,Bangalore,Bachelor,Freelancer,44,87345,Reject
+Male,Single,Mumbai,Master,Freelancer,58,57112,Approve
+Male,Married,Bangalore,High School,Salaried,47,63101,Approve
+Female,Single,Chennai,High School,Self-Employed,29,22418,Reject
+Female,Married,Delhi,High School,Self-Employed,34,80338,Reject
+Female,Married,Hyderabad,Master,Freelancer,21,55464,Reject
+Female,Single,Mumbai,Bachelor,Self-Employed,37,50776,Reject
+Male,Married,Bangalore,Bachelor,Salaried,41,115565,Approve
+Male,Single,Delhi,High School,Self-Employed,58,112580,Reject
+Female,Single,Delhi,Bachelor,Freelancer,27,89751,Reject
+Female,Single,Chennai,High School,Salaried,26,37206,Reject
+Male,Married,Mumbai,Bachelor,Salaried,47,109279,Approve
+Male,Married,Mumbai,Master,Self-Employed,23,77098,Approve
+Female,Married,Bangalore,Master,Freelancer,50,56438,Approve
+Male,Married,Hyderabad,PhD,Self-Employed,47,109946,Approve
+Female,Single,Delhi,Bachelor,Self-Employed,57,93727,Reject
+Male,Married,Hyderabad,PhD,Self-Employed,41,44843,Approve
+Female,Single,Delhi,Bachelor,Freelancer,35,118969,Reject
+Male,Married,Delhi,Master,Salaried,50,119985,Approve
+Female,Single,Mumbai,Bachelor,Salaried,51,102285,Approve
+Male,Single,Bangalore,High School,Salaried,49,108517,Approve
+Female,Single,Delhi,Bachelor,Salaried,26,77671,Reject
+Male,Married,Hyderabad,Bachelor,Self-Employed,50,71554,Reject
+Female,Married,Hyderabad,Bachelor,Freelancer,54,22862,Reject
+Female,Married,Chennai,Bachelor,Salaried,45,90373,Approve
+Male,Married,Hyderabad,Master,Freelancer,26,79411,Approve
+Male,Married,Chennai,Bachelor,Salaried,29,76681,Reject
+Female,Single,Mumbai,High School,Freelancer,50,80302,Reject
+Male,Married,Hyderabad,Master,Self-Employed,30,69026,Approve
+Female,Single,Hyderabad,High School,Freelancer,32,64599,Reject
+Female,Single,Chennai,Bachelor,Self-Employed,51,111480,Reject
+Male,Single,Mumbai,Bachelor,Salaried,47,45044,Reject
+Male,Married,Bangalore,Bachelor,Self-Employed,45,23664,Reject
+Male,Single,Chennai,Bachelor,Freelancer,50,21382,Reject
+Male,Married,Mumbai,Bachelor,Salaried,59,104127,Approve
+Male,Single,Hyderabad,Master,Salaried,21,34821,Approve
+Male,Married,Bangalore,Bachelor,Salaried,47,53371,Reject
+Female,Married,Hyderabad,Bachelor,Salaried,32,110510,Approve
+Male,Married,Delhi,Bachelor,Freelancer,31,80724,Reject
+Female,Married,Chennai,Bachelor,Freelancer,30,99628,Reject
+Female,Married,Chennai,Bachelor,Salaried,33,42455,Reject
+Male,Single,Bangalore,PhD,Freelancer,40,78622,Approve
+Female,Married,Mumbai,High School,Self-Employed,30,111233,Reject
+Male,Single,Bangalore,Bachelor,Salaried,47,27151,Reject
+Male,Married,Chennai,PhD,Self-Employed,28,82854,Approve
+Male,Single,Chennai,Bachelor,Self-Employed,27,25843,Reject
+Male,Married,Mumbai,Master,Self-Employed,52,64199,Approve
+Male,Married,Bangalore,Bachelor,Salaried,29,74732,Reject
+Male,Single,Mumbai,Bachelor,Freelancer,56,74168,Reject
+Female,Single,Mumbai,Master,Salaried,43,39978,Approve
+Male,Single,Bangalore,High School,Freelancer,26,91976,Reject
+Female,Single,Hyderabad,Master,Freelancer,28,32361,Reject
+Female,Married,Hyderabad,Master,Self-Employed,57,70378,Approve
+Male,Married,Bangalore,Bachelor,Freelancer,58,68286,Reject
+Male,Single,Hyderabad,Bachelor,Freelancer,53,113068,Reject
+Male,Single,Bangalore,High School,Salaried,31,102092,Approve
+Male,Single,Mumbai,Bachelor,Self-Employed,35,50726,Reject
+Female,Married,Delhi,Bachelor,Salaried,34,100345,Approve
+Female,Single,Bangalore,High School,Salaried,30,40346,Reject
+Female,Married,Delhi,High School,Self-Employed,59,37876,Reject
+Female,Married,Bangalore,High School,Salaried,31,117209,Approve
+Male,Married,Mumbai,Bachelor,Freelancer,30,61888,Reject
+Male,Single,Hyderabad,Bachelor,Freelancer,28,87102,Reject
+Female,Single,Bangalore,Bachelor,Freelancer,49,57239,Reject
+Female,Single,Mumbai,Bachelor,Salaried,23,30655,Reject
+Male,Married,Hyderabad,Master,Freelancer,32,102382,Approve
+Male,Single,Chennai,Bachelor,Self-Employed,55,57729,Reject
+Female,Single,Delhi,Master,Salaried,23,68681,Approve
+Male,Married,Mumbai,Master,Self-Employed,41,36022,Approve
+Male,Single,Hyderabad,High School,Freelancer,52,49373,Reject
+Male,Married,Chennai,Bachelor,Freelancer,43,66936,Reject
+Male,Married,Bangalore,Bachelor,Salaried,49,24228,Reject
+Female,Married,Chennai,PhD,Freelancer,56,41037,Approve
+Female,Single,Bangalore,High School,Freelancer,24,96652,Reject
+Male,Married,Hyderabad,Bachelor,Salaried,27,74298,Reject
+Female,Married,Bangalore,High School,Salaried,27,66777,Reject
+Male,Single,Hyderabad,PhD,Freelancer,45,65767,Approve
+Female,Single,Chennai,Bachelor,Self-Employed,22,79669,Reject
+Male,Single,Mumbai,High School,Salaried,42,102977,Approve
+Female,Single,Bangalore,PhD,Salaried,48,113607,Approve
+Male,Single,Bangalore,Bachelor,Freelancer,25,89432,Reject
+Female,Married,Hyderabad,Bachelor,Self-Employed,49,59332,Reject
+Female,Single,Bangalore,Bachelor,Salaried,42,118645,Approve
+Female,Married,Bangalore,PhD,Salaried,39,32112,Approve
+Female,Single,Bangalore,Bachelor,Salaried,23,30901,Reject
+Female,Married,Delhi,High School,Salaried,24,74192,Reject
+Female,Single,Mumbai,PhD,Freelancer,59,78719,Approve
+Female,Single,Hyderabad,Bachelor,Salaried,37,52007,Reject
+Female,Married,Bangalore,Bachelor,Salaried,31,88407,Approve
+Male,Married,Hyderabad,High School,Self-Employed,52,98678,Reject
+Male,Married,Chennai,Master,Salaried,30,67570,Approve
+Male,Married,Delhi,Bachelor,Freelancer,46,112971,Reject
+Male,Married,Bangalore,Master,Salaried,55,83328,Approve
+Female,Single,Bangalore,Bachelor,Freelancer,46,51394,Reject
+Male,Married,Mumbai,Bachelor,Self-Employed,36,94119,Reject
+Female,Married,Bangalore,Master,Freelancer,33,118682,Approve
+Male,Single,Delhi,Bachelor,Self-Employed,49,77089,Reject
+Female,Single,Chennai,Bachelor,Self-Employed,43,64580,Reject
+Male,Married,Hyderabad,High School,Self-Employed,22,92704,Reject
+Male,Married,Chennai,High School,Freelancer,52,76987,Reject
+Male,Married,Bangalore,Bachelor,Freelancer,45,79753,Reject
+Female,Single,Bangalore,High School,Salaried,27,95184,Reject
+Male,Married,Mumbai,High School,Self-Employed,26,78833,Reject
+Male,Married,Hyderabad,Bachelor,Freelancer,57,100582,Reject
+Male,Single,Chennai,PhD,Salaried,43,39500,Approve
+Female,Married,Delhi,High School,Freelancer,26,71778,Reject
+Male,Single,Bangalore,Bachelor,Freelancer,34,78806,Reject
+Female,Single,Chennai,Master,Freelancer,54,88341,Approve
+Female,Single,Chennai,Master,Freelancer,44,33361,Approve
+Male,Married,Chennai,Master,Salaried,24,86090,Approve
+Male,Married,Hyderabad,High School,Freelancer,52,63038,Reject
+Female,Married,Chennai,Bachelor,Freelancer,21,87514,Reject
+Female,Married,Chennai,High School,Self-Employed,26,38169,Reject
+Female,Single,Bangalore,Bachelor,Salaried,31,50986,Reject
+Male,Married,Delhi,Bachelor,Self-Employed,33,88424,Reject
+Female,Married,Mumbai,Bachelor,Freelancer,21,119233,Reject
+Male,Single,Mumbai,Bachelor,Salaried,22,82553,Reject
+Male,Married,Bangalore,Bachelor,Salaried,39,78412,Approve
+Male,Single,Chennai,Master,Salaried,46,35704,Approve
+Male,Single,Hyderabad,Bachelor,Self-Employed,50,46371,Reject
+Male,Married,Bangalore,Master,Self-Employed,49,33983,Approve
+Female,Single,Hyderabad,High School,Salaried,30,32646,Reject
+Female,Married,Delhi,Bachelor,Self-Employed,29,22559,Reject
+Male,Married,Hyderabad,High School,Self-Employed,22,102084,Reject
+Male,Married,Hyderabad,Bachelor,Salaried,47,113219,Approve
+Female,Single,Hyderabad,Bachelor,Freelancer,26,103431,Reject
+Male,Married,Bangalore,High School,Self-Employed,55,51395,Reject
+Male,Married,Hyderabad,Bachelor,Salaried,47,60502,Approve
+Male,Married,Mumbai,Bachelor,Self-Employed,31,39412,Reject
+Female,Single,Delhi,High School,Freelancer,37,80817,Reject
+Male,Married,Delhi,Bachelor,Salaried,47,51219,Reject
+Female,Married,Bangalore,High School,Freelancer,31,109922,Reject
+Male,Single,Bangalore,Bachelor,Self-Employed,21,44616,Reject
+Female,Single,Bangalore,High School,Self-Employed,33,76249,Reject
+Female,Married,Bangalore,High School,Freelancer,44,89397,Reject
+Male,Single,Mumbai,Bachelor,Self-Employed,53,64692,Reject
+Male,Married,Mumbai,High School,Salaried,59,67475,Approve
+Male,Married,Hyderabad,High School,Salaried,31,65466,Approve
+Female,Single,Chennai,Bachelor,Self-Employed,25,75110,Reject
+Male,Single,Delhi,PhD,Salaried,51,70266,Approve
+Male,Single,Delhi,Bachelor,Salaried,55,40427,Reject
+Male,Single,Delhi,Bachelor,Freelancer,27,28932,Reject
+Male,Married,Bangalore,Bachelor,Freelancer,47,75368,Reject
+Female,Single,Hyderabad,Bachelor,Salaried,37,57742,Reject
+Male,Married,Delhi,Bachelor,Salaried,51,76499,Approve
+Male,Married,Delhi,High School,Salaried,46,71622,Approve
+Female,Married,Bangalore,Master,Self-Employed,47,108156,Approve
+Female,Married,Bangalore,High School,Self-Employed,38,100045,Reject
+Male,Single,Delhi,High School,Salaried,47,64205,Approve
+Female,Single,Mumbai,Bachelor,Salaried,49,68992,Approve
+Female,Married,Hyderabad,High School,Freelancer,30,76286,Reject
+Female,Single,Mumbai,High School,Freelancer,56,89297,Reject
+Male,Single,Mumbai,Bachelor,Self-Employed,23,29091,Reject
+Male,Single,Hyderabad,Bachelor,Freelancer,39,82301,Reject
+Female,Single,Bangalore,Master,Salaried,42,57881,Approve
+Male,Married,Hyderabad,Master,Self-Employed,44,57078,Approve
+Male,Married,Bangalore,High School,Self-Employed,34,117832,Reject
+Female,Single,Chennai,Bachelor,Salaried,59,61420,Approve
+Male,Single,Chennai,High School,Freelancer,33,57190,Reject
+Female,Married,Bangalore,High School,Salaried,55,116340,Approve
+Male,Single,Hyderabad,Bachelor,Salaried,34,53061,Reject
+Female,Single,Mumbai,Bachelor,Self-Employed,55,47206,Reject
+Male,Married,Bangalore,High School,Freelancer,27,109847,Reject
+Male,Single,Mumbai,Bachelor,Salaried,30,22508,Reject
+Female,Married,Hyderabad,High School,Salaried,22,55517,Reject
+Male,Married,Chennai,High School,Salaried,41,92026,Approve
+Female,Married,Chennai,Master,Freelancer,47,82390,Approve
+Female,Single,Chennai,PhD,Freelancer,22,98151,Approve
+Female,Single,Delhi,Bachelor,Freelancer,22,83335,Reject
+Female,Married,Bangalore,High School,Self-Employed,30,48872,Reject
+Male,Single,Delhi,Bachelor,Freelancer,25,82088,Reject
+Female,Married,Bangalore,High School,Freelancer,26,52215,Reject
+Male,Single,Delhi,Bachelor,Freelancer,43,75238,Reject
+Male,Married,Hyderabad,Bachelor,Self-Employed,55,31818,Reject
+Female,Single,Hyderabad,Bachelor,Freelancer,46,97011,Reject
+Female,Married,Delhi,Master,Freelancer,47,41883,Approve
+Male,Single,Delhi,Master,Self-Employed,46,84775,Approve
+Male,Married,Chennai,Master,Salaried,28,21130,Approve
+Male,Married,Delhi,PhD,Freelancer,53,85096,Approve
+Male,Single,Delhi,Master,Self-Employed,41,66288,Approve
+Female,Single,Bangalore,High School,Salaried,23,106217,Reject
+Female,Single,Delhi,High School,Freelancer,56,74697,Reject
+Female,Single,Delhi,PhD,Salaried,29,85067,Approve
+Female,Single,Bangalore,High School,Freelancer,33,56409,Reject
+Male,Married,Bangalore,Master,Freelancer,47,49696,Approve
+Male,Married,Hyderabad,Bachelor,Freelancer,25,62113,Reject
+Female,Single,Bangalore,High School,Salaried,44,55944,Reject
+Male,Married,Chennai,Bachelor,Freelancer,28,78373,Reject
+Female,Single,Bangalore,Bachelor,Freelancer,31,53692,Reject
+Female,Single,Bangalore,Bachelor,Salaried,30,86838,Reject
+Female,Single,Bangalore,High School,Freelancer,30,54165,Reject
+Male,Single,Chennai,Master,Freelancer,47,51927,Approve
+Female,Single,Hyderabad,Bachelor,Self-Employed,25,116496,Reject
+Male,Single,Chennai,Master,Freelancer,57,109965,Approve
+Female,Married,Hyderabad,Bachelor,Self-Employed,27,111618,Reject
+Male,Married,Hyderabad,High School,Self-Employed,29,52292,Reject
+Female,Married,Mumbai,Bachelor,Freelancer,36,93634,Reject
+Male,Married,Mumbai,Master,Freelancer,33,87078,Approve
+Female,Single,Hyderabad,Master,Freelancer,37,59617,Approve
+Female,Single,Bangalore,High School,Freelancer,23,102469,Reject
+Male,Single,Bangalore,High School,Salaried,59,116418,Approve
+Male,Married,Mumbai,High School,Freelancer,57,37227,Reject
+Male,Married,Hyderabad,PhD,Freelancer,43,88057,Approve
+Female,Married,Hyderabad,High School,Salaried,35,23185,Reject
+Male,Married,Chennai,Bachelor,Salaried,56,77426,Approve
+Male,Married,Mumbai,Bachelor,Freelancer,43,30803,Reject
+Female,Single,Bangalore,High School,Freelancer,34,106587,Reject
+Male,Single,Hyderabad,High School,Self-Employed,36,90565,Reject
+Male,Single,Mumbai,Bachelor,Self-Employed,40,63976,Reject
+Female,Married,Mumbai,PhD,Self-Employed,52,95500,Approve
+Female,Single,Hyderabad,Bachelor,Freelancer,43,96997,Reject
+Female,Single,Delhi,High School,Self-Employed,55,79200,Reject
+Male,Married,Chennai,Master,Salaried,58,45952,Approve
+Male,Single,Delhi,Bachelor,Self-Employed,24,34587,Reject
+Female,Married,Hyderabad,High School,Freelancer,25,68408,Reject

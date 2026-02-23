@@ -1,0 +1,19 @@
+Student Practice Tasks
+
+Ask students to:
+
+Inspect missing values using isna().sum()
+
+Drop rows where Opted_Benefits is missing
+
+Clean numeric columns using pd.to_numeric(errors="coerce")
+
+Remove commas from Monthly_Pay
+
+Use median for numeric imputation
+
+Use mode for categorical imputation
+
+Ensure ZERO NaNs
+
+Verify dtypes before encoding

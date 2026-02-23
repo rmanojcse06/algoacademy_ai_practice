@@ -1,0 +1,16 @@
+Employee_Name,Years_Experience,Monthly_Pay,Department,Qualification,Opted_Benefits
+Ajay,2,25000,IT,Diploma,No
+Priyanka,5,45000,HR,Bachelor,Yes
+,8,65000,Finance,Master,Yes
+Ramesh,,55000,IT,Bachelor,No
+Sunita,ten,72000,HR,Master,Yes
+Karthik,6,"85,000",Finance,,Yes
+Anil,1,20000,1,Diploma,No
+Megha,4,32000,HR,12,No
+Vikas,9,90000,IT,Master,
+Divya,3,NaN,Finance,Bachelor,Yes
+Suresh,,,"IT",Diploma,No
+Anitha,5,48000,,Bachelor,Yes
+Mahesh,15,"1,20,000",Finance,Master,Yes
+Pooja,four,30000,HR,Bachelor,No
+
