@@ -1,0 +1,34 @@
+jupyter notebook --port 19999 --notebook-dir="/Users/manojravikumar/Downloads/algoacademy.ai"
+====================================
+import numpy as np
+import pandas as pd
+df = pd.read_csv(filepath_or_buffer='loan_prediction_dataset.csv')
+X=df[["Age","Annual_Income","Credit_Score"]]
+y=df["Loan_Amount"]
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X,y , random_state=104,test_size=0.25, shuffle=True)
+from sklearn.linear_model import LinearRegression
+model = LinearRegression()
+model.fit(X_train,y_train)
+y_pred = model.predict(X_test)
+df1 = X_test.copy()
+df1["Actual_Loan_Amount"] = y_test
+df1["Predicted_Loan_Amount"] = y_pred
+model.predict([[30,50000,422]])
+====================================
+import numpy as np
+import pandas as pd
+dataset = pd.read_csv(filepath_or_buffer='Loan_Credit_Risk_Dataset.csv')
+X = dataset[["salary","closing_balance","avg_month_balance","cibil_score"]]
+y = dataset["loan_status"]
+from sklearn.model_selection import train_test_split
+X_train , X_test , y_train ,y_test = train_test_split(X,y, train_size = 0.8 , random_state = 42)
+from sklearn.linear_model import LogisticRegression
+model = LogisticRegression()
+model.fit(X_train , y_train)
+y_pred = model.predict(X_test)
+df1 = X_test.copy()
+df1["Actual"] = y_test
+df1["Predicted"] = y_pred
+model.predict([[10000,130000,5000,400]])
+model.predict([[10000,1300,5000,100]])
